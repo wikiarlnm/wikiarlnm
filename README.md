@@ -5,7 +5,8 @@
 - 📕 I'm learning about operating system database and internet network security
 - 🦾 I am very happy to know new things about technological developments in today's times
 <br>
-next i will create some projects and they are in this repository please have a look! There's still a lot I haven't learned, and I'm happy to learn more
+next i will create some projects and they are in this repository please have a look! 
+There's still a lot I haven't learned, and I'm happy to learn more
 <br>
 
 - 📫 The best way to reach me is via email: 07wikiarlianm@gmail.com
